@@ -1,0 +1,346 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "category": "Bag",
+      "name": "Aphrodite small shoulder bag",
+      "seller": "Gucci",
+      "price": 1915,
+      "img": "https://cdn-images.farfetch-contents.com/20/13/51/16/20135116_45310702_1000.jpg",
+      "shipping": 0,
+      "quantity": 0
+    },
+    {
+      "id": "2",
+      "category": "Bag",
+      "name": "Shoulder bag Le 5 à 7 with monogram",
+      "seller": "Saint Laurent",
+      "price": 2650,
+      "img": "https://cdn-images.farfetch-contents.com/20/69/69/73/20696973_50918629_1000.jpg",
+      "shipping": 14,
+      "quantity": 0
+    },
+    {
+      "id": "3",
+      "category": "Bag",
+      "name": "Le Chiquito mini bag",
+      "seller": "Jacquemus",
+      "price": 510,
+      "img": "https://cdn-images.farfetch-contents.com/20/40/37/70/20403770_50738292_1000.jpg",
+      "shipping": 1,
+      "quantity": 0
+    },
+    {
+      "id": "4",
+      "category": "Bag",
+      "name": "Denim shoulder bag 1DR",
+      "seller": "Diesel",
+      "price": 628,
+      "img": "https://cdn-images.farfetch-contents.com/20/90/28/58/20902858_50879920_1000.jpg",
+      "shipping": 32,
+      "quantity": 0
+    },
+    {
+      "id": "5",
+      "category": "Bag",
+      "name": "Crocodile embossed bucket bag",
+      "seller": "Stella McCartney",
+      "price": 1720,
+      "img": "https://cdn-images.farfetch-contents.com/21/85/69/05/21856905_51743813_1000.jpg",
+      "shipping": 49,
+      "quantity": 0
+    },
+    {
+      "id": "6",
+      "category": "Bag",
+      "name": "Medium Varenne tote bag",
+      "seller": "Jimmy Choo",
+      "price": 1495,
+      "img": "https://cdn-images.farfetch-contents.com/20/00/11/15/20001115_50214919_1000.jpg",
+      "shipping": 19,
+      "quantity": 0
+    },
+    {
+      "id": "7",
+      "category": "Bag",
+      "name": "Woody medium logo tote bag",
+      "seller": "Chloé",
+      "price": 1214,
+      "img": "https://cdn-images.farfetch-contents.com/19/04/15/28/19041528_41547963_1000.jpg",
+      "shipping": 15,
+      "quantity": 0
+    },
+    {
+      "id": "8",
+      "category": "Bag",
+      "name": "Horsebit 1955 mini bag",
+      "seller": "Gucci",
+      "price": 2745,
+      "img": "https://cdn-images.farfetch-contents.com/21/28/62/88/21286288_51163500_1000.jpg",
+      "shipping": 50,
+      "quantity": 0
+    },
+    {
+      "id": "9",
+      "category": "Bag",
+      "name": "The J Marc Chain mini satchel bag",
+      "seller": "Marc Jacobs",
+      "price": 534,
+      "img": "https://cdn-images.farfetch-contents.com/19/13/72/37/19137237_42379757_1000.jpg",
+      "shipping": 46,
+      "quantity": 0
+    },
+    {
+      "id": "10",
+      "category": "Bag",
+      "name": "Japanese tote bag",
+      "seller": "MM6 Maison Margiela",
+      "price": 395,
+      "img": "https://cdn-images.farfetch-contents.com/19/67/13/74/19671374_50651439_1000.jpg",
+      "shipping": 36,
+      "quantity": 0
+    },
+    {
+      "id": "11",
+      "category": "Wallet",
+      "name": "Le Pliage Original wallet",
+      "seller": "Longchamp",
+      "price": 57,
+      "img": "https://cdn-images.farfetch-contents.com/20/23/24/51/20232451_50789242_1000.jpg",
+      "shipping": 29,
+      "quantity": 0
+    },
+    {
+      "id": "12",
+      "category": "Wallet",
+      "name": "Small foldable check wallet",
+      "seller": "Burberry",
+      "price": 541,
+      "img": "https://cdn-images.farfetch-contents.com/19/31/80/92/19318092_42718070_1000.jpg",
+      "shipping": 48,
+      "quantity": 0
+    },
+    {
+      "id": "13",
+      "category": "Wallet",
+      "name": "Constance wallet (1968)",
+      "seller": "Hermès",
+      "price": 2180,
+      "img": "https://cdn-images.farfetch-contents.com/21/50/49/27/21504927_51470648_1000.jpg",
+      "shipping": 20,
+      "quantity": 0
+    },
+    {
+      "id": "14",
+      "category": "Wallet",
+      "name": "Logo wallet",
+      "seller": "Diesel",
+      "price": 220,
+      "img": "https://cdn-images.farfetch-contents.com/20/30/35/42/20303542_50435368_1000.jpg",
+      "shipping": 8,
+      "quantity": 0
+    },
+    {
+      "id": "15",
+      "category": "Wallet",
+      "name": "Compact wallet",
+      "seller": "Marc Jacobs",
+      "price": 178,
+      "img": "https://cdn-images.farfetch-contents.com/13/35/22/55/13352255_15088260_1000.jpg",
+      "shipping": 27,
+      "quantity": 0
+    },
+    {
+      "id": "16",
+      "category": "Wallet",
+      "name": "Paper mini wallet",
+      "seller": "Balenciaga",
+      "price": 385,
+      "img": "https://cdn-images.farfetch-contents.com/15/35/92/62/15359262_28360078_1000.jpg",
+      "shipping": 33,
+      "quantity": 0
+    },
+    {
+      "id": "17",
+      "category": "Wallet",
+      "name": "Zippy Dragonne pre-owned wallet",
+      "seller": "Louis Vuitton",
+      "price": 1267,
+      "img": "https://cdn-images.farfetch-contents.com/19/90/15/31/19901531_44616498_1000.jpg",
+      "shipping": 26,
+      "quantity": 0
+    },
+    {
+      "id": "18",
+      "category": "Wallet",
+      "name": "Elite Oblique pre-owned wallet",
+      "seller": "Christian Dior",
+      "price": 1950,
+      "img": "https://cdn-images.farfetch-contents.com/20/19/67/11/20196711_50275743_1000.jpg",
+      "shipping": 20,
+      "quantity": 0
+    },
+    {
+      "id": "19",
+      "category": "Wallet",
+      "name": "Quilted wallet (2015-2016)",
+      "seller": "CHANEL",
+      "price": 1873,
+      "img": "https://cdn-images.farfetch-contents.com/22/11/64/20/22116420_51862640_1000.jpg",
+      "shipping": 49,
+      "quantity": 0
+    },
+    {
+      "id": "20",
+      "category": "Wallet",
+      "name": "Zipper wallet",
+      "seller": "Prada",
+      "price": 1200,
+      "img": "https://cdn-images.farfetch-contents.com/19/90/84/17/19908417_50555477_322.jpg",
+      "shipping": 27,
+      "quantity": 0
+    },
+    {
+      "id": "21",
+      "category": "Backpack",
+      "name": "Virginia wool blend Fleecy backpack",
+      "seller": "Brunello Cucinelli",
+      "price": 2282,
+      "img": "https://cdn-images.farfetch-contents.com/20/91/70/74/20917074_46104530_1000.jpg",
+      "shipping": 13,
+      "quantity": 0
+    },
+    {
+      "id": "22",
+      "category": "Backpack",
+      "name": "Le Pliage backpack with embossed logo",
+      "seller": "Longchamp",
+      "price": 127,
+      "img": "https://cdn-images.farfetch-contents.com/22/12/98/34/22129834_51984089_1000.jpg",
+      "shipping": 27,
+      "quantity": 0
+    },
+    {
+      "id": "23",
+      "category": "Backpack",
+      "name": "Rhea backpack medium size",
+      "seller": "Michael Kors",
+      "price": 338,
+      "img": "https://cdn-images.farfetch-contents.com/11/92/01/64/11920164_9149363_1000.jpg",
+      "shipping": 26,
+      "quantity": 0
+    },
+    {
+      "id": "24",
+      "category": "Backpack",
+      "name": "Joe quilted drawstring backpack",
+      "seller": "Saint Laurent",
+      "price": 2412,
+      "img": "https://cdn-images.farfetch-contents.com/16/93/31/06/16933106_36693660_1000.jpg",
+      "shipping": 33,
+      "quantity": 0
+    },
+    {
+      "id": "25",
+      "category": "Backpack",
+      "name": "Checked backpack",
+      "seller": "Burberry",
+      "price": 1868,
+      "img": "https://cdn-images.farfetch-contents.com/19/92/19/77/19921977_44836614_1000.jpg",
+      "shipping": 4,
+      "quantity": 0
+    },
+    {
+      "id": "26",
+      "category": "Backpack",
+      "name": "Backpack with buckles",
+      "seller": "Versace Jeans Couture",
+      "price": 256,
+      "img": "https://cdn-images.farfetch-contents.com/20/22/45/91/20224591_50728734_1000.jpg",
+      "shipping": 39,
+      "quantity": 0
+    },
+    {
+      "id": "27",
+      "category": "Backpack",
+      "name": "Monogram backpack",
+      "seller": "Tommy Hilfiger",
+      "price": 201,
+      "img": "https://cdn-images.farfetch-contents.com/19/61/70/35/19617035_44103061_1000.jpg",
+      "shipping": 33,
+      "quantity": 0
+    },
+    {
+      "id": "28",
+      "category": "Backpack",
+      "name": "Logo mini backpack",
+      "seller": "Acne Studios",
+      "price": 393,
+      "img": "https://cdn-images.farfetch-contents.com/21/68/55/67/21685567_52081017_1000.jpg",
+      "shipping": 38,
+      "quantity": 0
+    },
+    {
+      "id": "29",
+      "category": "Backpack",
+      "name": "Faux leather backpack with logo",
+      "seller": "Calvin Klein",
+      "price": 164,
+      "img": "https://cdn-images.farfetch-contents.com/20/26/04/26/20260426_51232952_1000.jpg",
+      "shipping": 37,
+      "quantity": 0
+    },
+    {
+      "id": "30",
+      "category": "Backpack",
+      "name": "Faux leather monogram backpack",
+      "seller": "GUESS USA",
+      "price": 187,
+      "img": "https://cdn-images.farfetch-contents.com/21/77/34/89/21773489_51678792_1000.jpg",
+      "shipping": 10,
+      "quantity": 0
+    }
+  ],
+  "cart": [
+    {
+      "id": "2",
+      "category": "Bag",
+      "name": "Shoulder bag Le 5 à 7 with monogram",
+      "seller": "Saint Laurent",
+      "price": 2650,
+      "img": "https://cdn-images.farfetch-contents.com/20/69/69/73/20696973_50918629_1000.jpg",
+      "shipping": 14,
+      "quantity": 9
+    },
+    {
+      "id": "1",
+      "category": "Bag",
+      "name": "Aphrodite small shoulder bag",
+      "seller": "Gucci",
+      "price": 1915,
+      "img": "https://cdn-images.farfetch-contents.com/20/13/51/16/20135116_45310702_1000.jpg",
+      "shipping": 0,
+      "quantity": 8
+    },
+    {
+      "id": "4",
+      "category": "Bag",
+      "name": "Denim shoulder bag 1DR",
+      "seller": "Diesel",
+      "price": 628,
+      "img": "https://cdn-images.farfetch-contents.com/20/90/28/58/20902858_50879920_1000.jpg",
+      "shipping": 32,
+      "quantity": 3
+    },
+    {
+      "id": "3",
+      "category": "Bag",
+      "name": "Le Chiquito mini bag",
+      "seller": "Jacquemus",
+      "price": 510,
+      "img": "https://cdn-images.farfetch-contents.com/20/40/37/70/20403770_50738292_1000.jpg",
+      "shipping": 1,
+      "quantity": 6
+    }
+  ]
+}

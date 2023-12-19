@@ -1,0 +1,19 @@
+.header{
+    height: 80px;
+    background-color: #ffdcfa9c;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 130px;
+    padding-right: 130px;
+}
+.header a{
+    color: rgb(171, 183, 159);
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 36px;
+    font-family: 'FOOTLIGHT MT LIGHT', sans-serif;
+}
+.header a:hover{
+    color: rgb(228, 158, 201);
+}

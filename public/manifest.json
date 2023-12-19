@@ -1,0 +1,25 @@
+{
+  "short_name": "alyana-app",
+  "name": "Classique Co.",
+  "icons": [
+    {
+      "src": "https://www.freeiconspng.com/thumbs/bag-png/bag-png-13.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "bag.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "bag.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
